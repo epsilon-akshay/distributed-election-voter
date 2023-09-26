@@ -14,3 +14,8 @@ Propogate the downfall of all client states to group based states and
 2. implementing gossip protocol at a network layer
 3. implementing a gset or admin based 2p et (IYKWIM for voting)
 
+
+
+understanding blogs readhttps://www.youtube.com/watch?v=77qpCahU3fo&ab_channel=MartinKleppmann
+https://learn.microsoft.com/en-us/events/gophercon-2021/using-crdts-to-build-a-highly-available-decentralized-service-with-eventual-consistency-in-go
+
